@@ -1,0 +1,14 @@
+C:\Desenvolvimento\DotNet\sapw\sapw\bin\sapw.dll.config
+C:\Desenvolvimento\DotNet\sapw\sapw\bin\sapw.dll
+C:\Desenvolvimento\DotNet\sapw\sapw\bin\sapw.pdb
+C:\Desenvolvimento\DotNet\sapw\sapw\obj\Release\sapw.dll
+C:\Desenvolvimento\DotNet\sapw\sapw\obj\Release\sapw.pdb
+C:\Desenvolvimento\DotNet\sapw\sapw\obj\Release\sapw.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\bin\sapw.dll.config
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\bin\sapw.dll
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\bin\sapw.pdb
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\obj\Release\sapw.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\obj\Release\sapw.dll
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\obj\Release\sapw.pdb
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\obj\Release\sapw.Properties.Resources.resources
+C:\Desenvolvimento\Fontes DotNet\sapw\sapw\obj\Release\sapw.csproj.GenerateResource.Cache

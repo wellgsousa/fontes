@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\tirana\sapw" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/sapnco_utils.dll" publishTime="01/24/2011 05:16:20" />
+    <file relUrl="Balcao.asmx" publishTime="09/04/2015 08:58:03" />
+    <file relUrl="teste.asmx" publishTime="04/22/2013 15:00:07" />
+    <file relUrl="bin/sapw.pdb" publishTime="11/26/2015 13:57:35" />
+    <file relUrl="Web.config" publishTime="11/26/2015 14:00:46" />
+    <file relUrl="DSD.asmx" publishTime="04/22/2015 14:36:10" />
+    <file relUrl="bin/sapnco.dll" publishTime="01/24/2011 05:17:18" />
+    <file relUrl="FrotaService.asmx" publishTime="04/22/2013 15:15:44" />
+    <file relUrl="bin/sapw.dll" publishTime="11/26/2015 13:57:36" />
+  </publishProfile>
+</publishData>

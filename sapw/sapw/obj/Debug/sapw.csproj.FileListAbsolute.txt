@@ -1,0 +1,11 @@
+D:\Desenvolvimento\testec#\sapw\sapw\bin\sapw.dll
+D:\Desenvolvimento\testec#\sapw\sapw\bin\sapw.pdb
+D:\Desenvolvimento\testec#\sapw\sapw\obj\Debug\ResolveAssemblyReference.cache
+D:\Desenvolvimento\testec#\sapw\sapw\obj\Debug\sapw.dll
+D:\Desenvolvimento\testec#\sapw\sapw\obj\Debug\sapw.pdb
+C:\Desenvolvimento\DotNet\sapw\sapw\bin\sapw.dll.config
+C:\Desenvolvimento\DotNet\sapw\sapw\bin\sapw.dll
+C:\Desenvolvimento\DotNet\sapw\sapw\bin\sapw.pdb
+C:\Desenvolvimento\DotNet\sapw\sapw\obj\Debug\sapw.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\DotNet\sapw\sapw\obj\Debug\sapw.dll
+C:\Desenvolvimento\DotNet\sapw\sapw\obj\Debug\sapw.pdb
